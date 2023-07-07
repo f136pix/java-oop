@@ -1,0 +1,2 @@
+Esse é o texto de texto
+Podem haver varios deles dentro de um .txt
